@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:16:34.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="zn3SwVYlv5wsWozSkey3" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:18:20.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="YXFjrrQKetZjeAbfFF8R" version="14.9.2" type="github">
   <diagram id="cDn7WSwnbWyhTK0NfhJb" name="Page-1">
     <mxGraphModel dx="1351" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,8 +68,14 @@
         <mxCell id="Q9_NqKBs_nhXcMOELPVL-89" value="Data Export" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="Q9_NqKBs_nhXcMOELPVL-57">
           <mxGeometry x="116.5" y="12.000000000000009" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Q9_NqKBs_nhXcMOELPVL-104" value="Analyze" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="Q9_NqKBs_nhXcMOELPVL-57">
+          <mxGeometry x="20.5" y="106" width="60" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Q9_NqKBs_nhXcMOELPVL-88" value="Data Ingestion" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="Q9_NqKBs_nhXcMOELPVL-59">
           <mxGeometry x="-38" y="12" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q9_NqKBs_nhXcMOELPVL-103" value="Process" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="Q9_NqKBs_nhXcMOELPVL-59">
+          <mxGeometry x="85" y="105.43" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q9_NqKBs_nhXcMOELPVL-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAASIAAAAaCAYAAAAT4FHCAAAAAXNSR0IArs4c6QAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAASKgAwAEAAAAAQAAABoAAAAArvRcUwAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAaFJREFUeAHt2llKA0EUBdA4gOAeFCfchR/qh7ovcQeCCBoE9+B6dBfO3vcRKBsTEiOtyCm4pFJd3dU5KR4dcTDQCBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBD44wJ7ub/bZPeP36fbI0DgHwvs57O9Jy/JTbKTaAQIEOhV4CCrVSEapQrSMNlONAIECPQicJhVRkWofX3O+FWyOe9dLDQXeE3/LWkX6vZrendslvfO5zfLfunOtX9+Z//UE9Fd4Y9pVZDqJ9tpcj9mzsThthDVl64RIEDguwJVkK6Ts+RhlossN5OrX4WpTRWnpWYs3U/H27nT9J3Pb5p9Mm6O/fM7+2cx8G2tqO/hq1bzVpOVrw4aI0CAwDwCRzm5+zO5fV9PQsNkZ55FnEuAAIFJAsc52BaeUf8p4/XH6q1JJztGgACBnxDoFqIqQJfJxk9c3DUIECAwjcBJJtVT0GNykawnGgECBHoVqP8jOk/Wel3VYgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgECfAh/3oCkEVePGfAAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="220" y="146.96" width="240" height="21.52" as="geometry" />
