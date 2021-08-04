@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T06:29:26.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="6xs8r4XU3URmZoS1Edbr" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-04T06:31:41.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="lsozdf1ItuVre-KkMGfv" version="14.9.2" type="github">
   <diagram id="q2Msg56hj-Nv60S_RZr-" name="Page-1">
-    <mxGraphModel dx="4452" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4114" dy="2440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BBr5GgtOVidhaa3rRDSz-93" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="-660" width="680" height="1230" as="geometry" />
+          <mxGeometry x="-600" y="-600" width="630" height="1130" as="geometry" />
         </mxCell>
         <mxCell id="BBr5GgtOVidhaa3rRDSz-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BBr5GgtOVidhaa3rRDSz-1" target="BBr5GgtOVidhaa3rRDSz-2">
           <mxGeometry relative="1" as="geometry" />
@@ -88,9 +88,6 @@
         </mxCell>
         <mxCell id="BBr5GgtOVidhaa3rRDSz-25" value="&lt;font size=&quot;2&quot;&gt;Web&amp;nbsp;app 6&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="BBr5GgtOVidhaa3rRDSz-31">
           <mxGeometry y="70" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BBr5GgtOVidhaa3rRDSz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BBr5GgtOVidhaa3rRDSz-31" source="BBr5GgtOVidhaa3rRDSz-25" target="BBr5GgtOVidhaa3rRDSz-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BBr5GgtOVidhaa3rRDSz-32" value="NSG" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="BBr5GgtOVidhaa3rRDSz-34">
           <mxGeometry x="3" y="22.5" width="40" height="20" as="geometry" />
@@ -225,7 +222,7 @@
           <mxGeometry x="9" y="43" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BBr5GgtOVidhaa3rRDSz-94" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Azure Cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="-650" width="120" height="20" as="geometry" />
+          <mxGeometry x="-550" y="-570" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
